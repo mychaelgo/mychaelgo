@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**mychaelgo/mychaelgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mychael, a software engineer at [Xendit](https://xendit.co) working on Dashboard & XenPlatform to help businesses Accept and send payments easily.
 
-Here are some ideas to get you started:
+## My values
+💖 Safety and trust<br>
+🌟 Expression as authentic self<br>
+🍏 Beginner's mindset and curiosity<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Get in touch
+- LinkedIn: https://www.linkedin.com/in/mychaelgo
+- Personal site: https://mychaelgo.com
+- Twitter: https://twitter.com/mychaelgo
