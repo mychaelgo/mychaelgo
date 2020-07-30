@@ -12,3 +12,5 @@ Hi, I'm Mychael, a software engineer at [Xendit](https://xendit.co) working on D
 - LinkedIn: https://www.linkedin.com/in/mychaelgo
 - Personal site: https://mychaelgo.com
 - Twitter: https://twitter.com/mychaelgo
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mychaelgo&show_icons=true" alt="mychaelgo" /> </p>
