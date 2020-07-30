@@ -13,4 +13,6 @@ Hi, I'm Mychael, a software engineer at [Xendit](https://xendit.co) working on D
 - Personal site: https://mychaelgo.com
 - Twitter: https://twitter.com/mychaelgo
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mychaelgo&show_icons=true" alt="mychaelgo" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=mychaelgo&show_icons=true" alt="mychaelgo" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
