@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Mychael, a software engineer at [Xendit](https://xendit.co) working on Dashboard to help businesses Accept and send payments easily.
+Hi, I'm Mychael, a software engineer & automation enthusiast.
 
 ## My values
 💖 Safety and trust<br>
